@@ -1,0 +1,4 @@
+wwwroot\images\benta-buddy.jpg
+wwwroot\images\me.jpg
+wwwroot\index.html
+C:\Users\Samuel\OneDrive\Desktop\MyPortfolio\MyPortfolio\wwwroot\index.html
